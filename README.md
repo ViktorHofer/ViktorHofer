@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Viktor 👋
+
+I work on [.NET](https://github.com/dotnet) as a developer at Microsoft based in Vienna, Austria. I initially joined Microsoft Austria in 2016 as an ATS (Account Technology Strategist) but shortly after realized that I belong into Engineering after all. These days I mostly focus on improving the Infrastructure of the core stack repositories like [dotnet/runtime](https://github.com/dotnet/runtime).
+
+👯 Ask me about anything music related - I love playing the piano.
+
+📫 How to reach me:
+- Twitter: https://twitter.com/ViktorHofer
+- Ping me on an issue or discussion
+
+😄 Pronouns: he/him
 
 <!--
 **ViktorHofer/ViktorHofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
