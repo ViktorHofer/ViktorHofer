@@ -8,7 +8,7 @@ I work on [.NET](https://github.com/dotnet) as a developer at Microsoft based in
 - Twitter: https://twitter.com/ViktorHofer
 - Ping me on an issue or discussion
 
-😄 Pronouns: he/him
+Pronouns: he/him
 
 <!--
 **ViktorHofer/ViktorHofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
