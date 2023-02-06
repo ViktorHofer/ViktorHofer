@@ -1,6 +1,6 @@
 ### Hi there, I'm Viktor 👋
 
-I work on [.NET](https://github.com/dotnet) as a developer at Microsoft based in Vienna, Austria. I initially joined Microsoft Austria in 2016 as an ATS (Account Technology Strategist) but shortly after realized that I belong into Engineering after all. These days I mostly focus on improving the Infrastructure of the core stack repositories like [dotnet/runtime](https://github.com/dotnet/runtime).
+I work on [.NET](https://github.com/dotnet) as a developer at Microsoft based in Austria. I initially joined Microsoft Austria in 2016 as an ATS (Account Technology Strategist) but shortly after realized that I belong into Engineering after all. These days I mostly focus on improving the Infrastructure of the core stack repositories like [dotnet/runtime](https://github.com/dotnet/runtime).
 
 👯 Ask me about anything music related - I love playing the piano.
 
