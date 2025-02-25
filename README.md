@@ -5,8 +5,10 @@ I work on [.NET](https://github.com/dotnet) as a developer at Microsoft based in
 👯 Ask me about anything music related - I love playing the piano.
 
 📫 How to reach me:
-- Twitter: https://twitter.com/ViktorHofer
+- Bluesky: [@viktorhofer.bsky.social](https://web-cdn.bsky.app/profile/viktorhofer.bsky.social)
 - Ping me on an issue or discussion
+
+🔭 I’m currently working on a project called the "Virtual Mono Repository" (VMR) -> https://github.com/dotnet/dotnet 
 
 Pronouns: he/him
 
